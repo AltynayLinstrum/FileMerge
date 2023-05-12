@@ -1,5 +1,5 @@
 <h3>PDF File Merger</h3>
-<p>I created this mini script with the help of Youtube tutorials, ChapGPT, online resources, and valuable insights of more experienced friends! It combines multiple PDF files into a single PDF document. The script reads all PDF files present in the current directory and merges them into a new PDF file named "combinedDoc.pdf".</p>
+<p>This mini script combines multiple PDF files into a single PDF document. The script reads all PDF files present in the current directory and merges them into a new PDF file named "combinedDoc.pdf".</p>
 <h3>Technologies/Libraries Used:</h3>
 <p>The script uses PyPDF2 library which is a pure-python PDF library capable of splitting, merging together, cropping, and transforming the pages of PDF files.</p>
 <h3>Potential Improvements</h3>
